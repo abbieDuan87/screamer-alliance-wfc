@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Our Story"
-  pageRef = "posts"
+  pageRef = "our-story"
   weight = 20
 
 [[main]]
@@ -45,3 +45,9 @@
    pre = "instagram"
    url = "https://www.instagram.com/screameralliancewfc/"
    weight = 10
+
+ [[footer]]
+   identifier = "email"
+   pre = "email"
+   url = "mailto:screameralliancewfc@outlook.com"
+   weight = 20

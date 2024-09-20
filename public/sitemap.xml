@@ -86,6 +86,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/our-story/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
