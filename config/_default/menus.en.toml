@@ -11,22 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "Our Story"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://screameralliancewfc.github.io/"
+  name = "Codes of Conduct"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Our Teams"
+  pageRef = "posts"
   weight = 40
 
 [[main]]
-  identifier = "instagram"
-  pre = "instagram"
-  url = "https://www.instagram.com/screameralliancewfc/"
-  weight = 60
+  name = "How to Join"
+  pageRef = "posts"
+  weight = 50
 
+[[main]]
+  name = "Contact Us"
+  pageRef = "posts"
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -34,6 +41,7 @@
 
 
  [[footer]]
-   name = "Tags"
-   pageRef = "tags"
+   identifier = "instagram"
+   pre = "instagram"
+   url = "https://www.instagram.com/screameralliancewfc/"
    weight = 10

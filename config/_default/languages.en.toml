@@ -11,3 +11,4 @@ rtl = false
 description = "We are Screamer Alliance Women's Football Club founded in March 2024"
 dateFormat = "2 January 2006"
 author = { name = "Screamer Alliance WFC", image = "img/logo.jpg", headline = "We write our Screamer 'herstory' here", bio = "A little bit about you", links = [ { link = "https://abbieduan87.github.io/screamer-alliance-wfc/" }, { instagram = "https://www.instagram.com/screameralliancewfc/" } ] }
+params.logo = "img/logo.jpg"
