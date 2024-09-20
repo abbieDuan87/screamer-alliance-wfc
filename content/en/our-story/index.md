@@ -1,6 +1,9 @@
 ---
 title: 'Our Story'
 description: 'Here is our story'
+showWordCount: false
+showDate: false
+showReadingTime: false
 ---
 
 Who We Are
