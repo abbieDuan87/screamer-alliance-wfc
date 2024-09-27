@@ -30,11 +30,6 @@
   pageRef = "posts"
   weight = 50
 
-[[main]]
-  name = "Contact Us"
-  pageRef = "posts"
-  weight = 60
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
