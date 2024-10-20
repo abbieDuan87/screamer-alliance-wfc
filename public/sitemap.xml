@@ -86,12 +86,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/codes-of-conduct/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gallery/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/how-to-join/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/our-teams/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/our-story/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/gallery/gallery/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
