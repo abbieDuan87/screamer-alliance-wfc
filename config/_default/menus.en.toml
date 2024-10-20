@@ -17,17 +17,17 @@
 
 [[main]]
   name = "Codes of Conduct"
-  pageRef = "posts"
+  pageRef = "codes-of-conduct"
   weight = 30
 
 [[main]]
   name = "Our Teams"
-  pageRef = "posts"
+  pageRef = "our-teams"
   weight = 40
 
 [[main]]
   name = "How to Join"
-  pageRef = "posts"
+  pageRef = "how-to-join"
   weight = 50
 
 # -- Footer Menu --
